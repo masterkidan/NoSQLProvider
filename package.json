@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@collectable/core": "^5.0.1",
-    "@collectable/red-black-tree": "^5.0.1",
+    "@collectable/red-black-tree": "https://github.com/frptools/collectable#afc853ca072a4580814ffc3c3289dd7f42619892",
     "lodash": "^4.17.21",
     "regexp-i18n": "^1.3.2"
   },

@@ -31,12 +31,9 @@
     "@frptools/corelib" "^1.1.0"
     "@frptools/structural" "^1.0.0"
 
-"@collectable/red-black-tree@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@collectable/red-black-tree/-/red-black-tree-5.0.1.tgz#984659265daf753029b57c2ca213bcde792a8664"
-  integrity sha1-mEZZJl2vdTAptXwsohO83nkqhmQ=
-  dependencies:
-    "@collectable/core" "^5.0.1"
+"@collectable/red-black-tree@https://github.com/frptools/collectable#afc853ca072a4580814ffc3c3289dd7f42619892":
+  version "0.0.0"
+  resolved "https://github.com/frptools/collectable#afc853ca072a4580814ffc3c3289dd7f42619892"
 
 "@discoveryjs/json-ext@^0.5.0":
   version "0.5.3"
